@@ -1,0 +1,103 @@
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies & Build
+node_modules/
+dist/
+build/
+out/
+target/
+.gradle/
+.cache/
+.parcel-cache/
+.vite/
+.next/
+storybook-static/
+
+# Test & Coverage
+coverage/
+.nyc_output/
+logs/
+*.log
+
+# Java
+META-INF/
+WEB-INF/lib/
+*.class
+*.jar
+*.war
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.venv/
+
+# Static Assets & Third-party Libraries
+static/
+static/**
+assets/
+assets/**
+assets/icon/**
+assets/icons/**
+assets/fonts/**
+assets/font/**
+public/
+public/**
+images/
+images/**
+img/
+img/**
+icons/
+icons/**
+fonts/
+fonts/**
+videos/
+videos/**
+audios/
+audios/**
+**/fontawesome*/
+**/fontawesome*/**
+**/bootstrap*/
+**/bootstrap*/**
+**/jquery*/
+**/jquery*/**
+**/lodash*/
+**/lodash*/**
+**/moment*/
+**/moment*/**
+**/angular*/
+**/angular*/**
+**/react*/
+**/react*/**
+**/vue*/
+**/vue*/**
+**/node_modules/**
+**/vendor/**
+
+# Documentation & Tests
+docs/
+doc/
+tests/
+test/
+__tests__/
+mocks/
+mock/
+README.md
+LICENSE
+*.md
